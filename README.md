@@ -1,4 +1,4 @@
-aws-dynamodb-iot Raspberry Pi Tempreture data visualisation
+#aws-dynamodb-iot Raspberry Pi Tempreture data visualisation
 
 ## Synopsis
 
